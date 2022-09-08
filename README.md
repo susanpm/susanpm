@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-<!--
-![susan](https://r72.cooltext.com/d.php?renderid=418789164040443&extension=png)
+![susan](https://user-images.githubusercontent.com/81458936/189009059-75a825e5-6afa-4265-80b3-a23200c9082a.png)
+
+
 **susanpm/susanpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Holi, Here are somo fact about me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently studying in Instituto Tecnologico de Tijuana 
+- 🌱 I’m currently learning python 
+- 💬 Ask me about my pets, my friends and gossip 
+- 📫 How to reach me: susan.ponce193@tectijuana.edu.mx
+- 😄 Pronouns: she/her 
+- ⚡ Fun fact: Ilove movies 
 -->
