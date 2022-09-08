@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--
+![susan](https://r72.cooltext.com/d.php?renderid=418789164040443&extension=png)
 **susanpm/susanpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
